@@ -183,7 +183,7 @@ export default {
               url: "datastand",
             },
             {
-              label: "历史数据",
+              label: "仪器数据",
               url: "datedetail",
             },
           ],
@@ -191,10 +191,6 @@ export default {
         {
           label:'预警系统',
           url:'warning'
-        },
-        {
-          label:'检测界面',
-          url:'warningdetection'
         }
       ],
 
